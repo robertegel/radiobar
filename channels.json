@@ -1,26 +1,60 @@
-{"channels": [
-	{
-		"title": "NPO Radio 1",
-		"url": "http://icecast.omroep.nl/radio1-bb-mp3"
-	},
-	{
-		"title": "NPO Radio 2",
-		"url": "http://icecast.omroep.nl/radio2-bb-mp3"
-	},
-	{
-		"title": "NPO 3FM",
-		"url": "http://icecast.omroep.nl/3fm-bb-mp3"
-	},
-	{
-		"title": "NPO Radio 4",
-		"url": "http://icecast.omroep.nl/radio4-bb-mp3"
-	},
-	{
-		"title": "NPO Radio 5",
-		"url": "http://icecast.omroep.nl/radio5-bb-mp3"
-	},
-	{
-		"title": "BNR Nieuwsradio",
-		"url": "http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03"
-	}
-]}
+{
+  "channels": [
+    {
+      "title": "dlf",
+      "url": "https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus"
+    },
+    {
+      "title": "dlf Kultur",
+      "url": "https://st02.sslstream.dlf.de/dlf/02/high/opus/stream.opus"
+    },
+    {
+      "title": "dlf Nova",
+      "url": "https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus"
+    },
+    {
+      "title": "NDRinfo",
+      "url": "http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
+    },
+    {
+      "title": "NDRkultur",
+      "url": "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
+    },
+    {
+      "title": "NDRinfo.spezial",
+      "url": "http://ndr-ndrinfospezial-live.cast.addradio.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3"
+    },
+    {
+      "title": "rbb.inforadio",
+      "url": "https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/mid"
+    },
+    {
+      "title": "npr.programstream",
+      "url": "https://npr.streamguys1.com:80/live.mp3"
+    },
+    {
+      "title": "krwg.LasCruces",
+      "url": "http://14923.live.streamtheworld.com:80/KRWGFM_SC"
+    },
+    {
+      "title": "kcrw.SantaMonica",
+      "url": "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio"
+    },
+    {
+      "title": "kcrw.news24",
+      "url": "http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio"
+    },
+    {
+      "title": "BNR Nieuwsradio",
+      "url": "http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03"
+    },
+    {
+      "title": "NPO Radio 1",
+      "url": "http://icecast.omroep.nl/radio1-bb-mp3"
+    },
+    {
+      "title": "NPO Radio 5",
+      "url": "http://icecast.omroep.nl/radio5-bb-mp3"
+    }
+  ]
+}
