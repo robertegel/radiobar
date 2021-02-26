@@ -13,6 +13,10 @@
       "url": "https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus"
     },
     {
+      "title": "dlf Dokumente+Debetten",
+      "url": "https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac"
+    },
+    {
       "title": "NDRinfo",
       "url": "http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
     },
